@@ -1,7 +1,7 @@
 # Definición del proveedor AWS
 provider "aws" {
   region  = "us-east-1"
-  profile = "237889007525_PowerUserAccess"
+  profile = "<YOUR_PROFILE>"
 }
 
 # Creación del security group
